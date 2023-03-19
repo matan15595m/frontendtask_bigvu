@@ -1,0 +1,202 @@
+{
+    "chapters": [
+      {
+        "id": "12345578da2a1f9889246d54",
+        "title": "BIGVU Teleprompter - All in one App",
+        "asset": {
+          "title": "NEW Teleprompter.mp4",
+          "resource": {
+            "duration": 59.666667,
+            "orientation": "horizontal",
+            "stream": {
+              "audioBitrate": 319999,
+              "audioCodec": "acc",
+              "fps": 30,
+              "height": 360,
+              "mime": "video/mp4",
+              "size": 6213577,
+              "url": "https://assets.bigvu.tv/video/62cd24c6da2a1f9889246a65/ce0e5b1a-bdbb-4ff4-94e3-0e5f6fffbeb1/_azgIj001_360.mp4",
+              "videoBitrate": 506230,
+              "videoCodec": "h264",
+              "width": 640
+            },
+            "thumbnail": {
+              "height": 360,
+              "mime": "image/jpeg",
+              "size": 19422,
+              "type": "image",
+              "url": "https://assets.bigvu.tv/video/62cd24c6da2a1f9889246a65/ce0e5b1a-bdbb-4ff4-94e3-0e5f6fffbeb1/_azgIj001_thumb_360.0000001.png",
+              "width": 640
+            },
+            "type": "video",
+            "hlsPlaylistUrl": "https://assets.bigvu.tv/assetVideos/62cd24c6da2a1f9889246a65/takes/62cd2578da2a1f9889246d56/e70bd947-b34b-4144-a3a5-c29c8b565408/video.m3u8"
+          }
+        }
+      },
+      {
+        "id": "123452e2118f35200b48a7d3",
+        "title": "Write a script and send to your mobile",
+        "asset": {
+          "title": "Write script and send to mobile.mp4",
+          "resource": {
+            "duration": 149.133333,
+            "orientation": "horizontal",
+            "stream": {
+              "audioBitrate": 320005,
+              "audioCodec": "acc",
+              "fps": 30,
+              "height": 360,
+              "mime": "video/mp4",
+              "size": 15453184,
+              "url": "https://assets.bigvu.tv/video/62af0434735f02bea100a8ae/99e130a4-d2ee-400e-9ae8-c5c1f69ee718/_GzObsTWe_360.mp4",
+              "videoBitrate": 501999,
+              "videoCodec": "h264",
+              "width": 640
+            },
+            "thumbnail": {
+              "height": 360,
+              "mime": "image/jpeg",
+              "size": 20408,
+              "type": "image",
+              "url": "https://assets.bigvu.tv/video/62af0434735f02bea100a8ae/99e130a4-d2ee-400e-9ae8-c5c1f69ee718/_GzObsTWe_thumb_360.0000001.png",
+              "width": 640
+            },
+            "type": "video",
+            "hlsPlaylistUrl": "https://assets.bigvu.tv/assetVideos/62af0434735f02bea100a8ae/takes/62b18e9135f27e86196b8758/63e5e889-1336-42b4-95a9-cd8548244c9c/video.m3u8"
+          }
+        }
+      },
+      {
+        "id": "123452de3797e90f3b75f943",
+        "title": "Mobile Teleprompter - TV Studio in your pocket",
+        "asset": {
+          "title": "How to use the teleprompter on mobile?.mp4",
+          "resource": {
+            "duration": 172.666667,
+            "orientation": "horizontal",
+            "stream": {
+              "audioBitrate": 320006,
+              "audioCodec": "acc",
+              "fps": 30,
+              "height": 360,
+              "mime": "video/mp4",
+              "size": 17880267,
+              "url": "https://assets.bigvu.tv/video/62cfece13797e90f3b75d13b/e4d5e149-e3e8-4e07-872a-5dd155768d60/_kP2xn74P_360.mp4",
+              "videoBitrate": 501520,
+              "videoCodec": "h264",
+              "width": 640
+            },
+            "thumbnail": {
+              "height": 360,
+              "mime": "image/jpeg",
+              "size": 17805,
+              "type": "image",
+              "url": "https://assets.bigvu.tv/video/62cfece13797e90f3b75d13b/e4d5e149-e3e8-4e07-872a-5dd155768d60/_kP2xn74P_thumb_360.0000001.png",
+              "width": 640
+            },
+            "type": "video",
+            "hlsPlaylistUrl": "https://assets.bigvu.tv/assetVideos/62cfece13797e90f3b75d13b/takes/62cff2de3797e90f3b75f945/8333ae49-4088-461e-b49f-d5f51dc7569b/video.m3u8"
+          }
+        }
+      },
+      {
+        "id": "123452cd3797e90f3b75f8ce",
+        "title": "Teleprompter for web",
+        "asset": {
+          "title": "How to use the teleprompter on web?.mp4",
+          "resource": {
+            "duration": 231.533333,
+            "orientation": "horizontal",
+            "stream": {
+              "audioBitrate": 320005,
+              "audioCodec": "acc",
+              "fps": 30,
+              "height": 360,
+              "mime": "video/mp4",
+              "size": 23967169,
+              "url": "https://assets.bigvu.tv/video/62cfece83797e90f3b75d180/2da8bd08-c712-46e2-87d6-d80db0a3c32a/_CZdD3gLn_360.mp4",
+              "videoBitrate": 501190,
+              "videoCodec": "h264",
+              "width": 640
+            },
+            "thumbnail": {
+              "height": 360,
+              "mime": "image/jpeg",
+              "size": 19210,
+              "type": "image",
+              "url": "https://assets.bigvu.tv/video/62cfece83797e90f3b75d180/2da8bd08-c712-46e2-87d6-d80db0a3c32a/_CZdD3gLn_thumb_360.0000001.png",
+              "width": 640
+            },
+            "type": "video",
+            "hlsPlaylistUrl": "https://assets.bigvu.tv/assetVideos/62cfece83797e90f3b75d180/takes/62cff2cd3797e90f3b75f8d0/a777a932-aca1-46f8-ac51-cbcef169e917/video.m3u8"
+          }
+        }
+      },
+      {
+        "id": "12345a09118f35200b48ec0e",
+        "title": "Test your script before recording with the Teleprompter",
+        "asset": {
+          "title": "Read only Teleprompter Feature .mp4",
+          "resource": {
+            "duration": 118.133333,
+            "orientation": "horizontal",
+            "stream": {
+              "audioBitrate": 320011,
+              "audioCodec": "acc",
+              "fps": 30,
+              "height": 360,
+              "mime": "video/mp4",
+              "size": 12242220,
+              "url": "https://assets.bigvu.tv/video/62ca8ea13797e90f3b4120f6/3c4b5c22-c1cf-4766-93e8-7cbd8f4ab3b8/_eMpAkqbv_360.mp4",
+              "videoBitrate": 502118,
+              "videoCodec": "h264",
+              "width": 640
+            },
+            "thumbnail": {
+              "height": 360,
+              "mime": "image/jpeg",
+              "size": 19124,
+              "type": "image",
+              "url": "https://assets.bigvu.tv/video/62ca8ea13797e90f3b4120f6/3c4b5c22-c1cf-4766-93e8-7cbd8f4ab3b8/_eMpAkqbv_thumb_360.0000001.png",
+              "width": 640
+            },
+            "type": "video",
+            "hlsPlaylistUrl": "https://assets.bigvu.tv/assetVideos/62ca8ea13797e90f3b4120f6/takes/62ca8fcd5de54d3bcd87fff5/d1f7ec67-86c9-4865-9f2a-c11f17d261f2/video.m3u8"
+          }
+        }
+      },
+      {
+        "id": "12345a04118f35200b48ebe7",
+        "title": "Trim your video by selecting words",
+        "asset": {
+          "title": "How To Trim Your Video With BIGVU's New WordTrim.mp4",
+          "resource": {
+            "duration": 43.066667,
+            "orientation": "horizontal",
+            "stream": {
+              "audioBitrate": 320019,
+              "audioCodec": "acc",
+              "fps": 30,
+              "height": 360,
+              "mime": "video/mp4",
+              "size": 4458985,
+              "url": "https://assets.bigvu.tv/video/62b18e2935f27e86196b8314/30dfa579-e621-4669-9ad3-428264c0c945/_1aXStOBl_360.mp4",
+              "videoBitrate": 501071,
+              "videoCodec": "h264",
+              "width": 640
+            },
+            "thumbnail": {
+              "height": 360,
+              "mime": "image/jpeg",
+              "size": 26005,
+              "type": "image",
+              "url": "https://assets.bigvu.tv/video/62b18e2935f27e86196b8314/30dfa579-e621-4669-9ad3-428264c0c945/_1aXStOBl_thumb_360.0000001.png",
+              "width": 640
+            },
+            "type": "video",
+            "hlsPlaylistUrl": "https://assets.bigvu.tv/assetVideos/62b18e2935f27e86196b8314/takes/62b18f482cdcd32bd700d370/fd0c5c79-3031-439c-aec6-f507f90e6040/video.m3u8"
+          }
+        }
+      }
+    ]
+  }

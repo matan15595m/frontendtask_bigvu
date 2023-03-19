@@ -1,20 +1,19 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View,FlatList, Platform,ScrollView} from 'react-native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import MainScreen from './components/MainScreen.js';
+import { NavigationContainer } from '@react-navigation/native';
+import CourseChapters from './components/CourseChapters.js';
 
+const Stack = createNativeStackNavigator()
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+  return(
+      <NavigationContainer>
+        <Stack.Navigator screenOptions={{}}>
+          <Stack.Screen name='MainScreen' component={MainScreen} options={{title:'BIGVU Courses' ,headerStyle:{backgroundColor:'#b366ff'}}}/>
+          <Stack.Screen name='CourseChapters' component={CourseChapters} options={{title:'Chapters',headerStyle:{backgroundColor:'#b366ff'}}}/>
+        </Stack.Navigator>
+      </NavigationContainer>
+  )
+  
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
